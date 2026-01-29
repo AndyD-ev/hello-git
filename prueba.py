@@ -1,3 +1,2 @@
  
-print("Hola Git")
-print("Hola, este es mi primer repo")
+print("ESTA ES UNA SGUNDA PRUEBA")

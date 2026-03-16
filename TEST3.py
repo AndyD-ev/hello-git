@@ -1,1 +1,5 @@
-print("hello world")
+print("AYUDAAAAAAAAAAAAAAAAAAAAAAA")
+
+print("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+
+print("SOY JR 😭")
